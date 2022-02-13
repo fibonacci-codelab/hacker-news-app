@@ -1,3 +1,4 @@
+import React from 'react'
 import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
@@ -16,7 +17,7 @@ function App() {
           </button>
         </p>
         <p>
-          Edit <code>App.jsx</code> and save to test HMR updates.
+          Edit <code>App.js</code> and save to test HMR updates.
         </p>
         <p>
           <a
