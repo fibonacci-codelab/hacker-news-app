@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+packages/*/dist
+packages/*/package-lock.json
+lerna-debug.log
+.DS_STORE
+.idea
+
