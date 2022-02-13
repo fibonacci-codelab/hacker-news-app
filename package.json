@@ -1,7 +1,13 @@
 {
-  "name": "root",
+  "name": "hacker-news-app",
+  "author": "czen <metaczen@gmail.com>",
   "private": true,
-  "devDependencies": {
-    "lerna": "^3.13.1"
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "lerna run dev"
   }
 }

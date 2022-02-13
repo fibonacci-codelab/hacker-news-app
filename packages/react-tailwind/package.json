@@ -1,0 +1,36 @@
+{
+  "name": "react-tailwind",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "czen <metaczen@gmail.com>",
+  "homepage": "https://github.com/fibonacci-codelab/hacker-news-app#readme",
+  "license": "ISC",
+  "main": "lib/react-tailwind.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.6.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibonacci-codelab/hacker-news-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fibonacci-codelab/hacker-news-app/issues"
+  }
+}
