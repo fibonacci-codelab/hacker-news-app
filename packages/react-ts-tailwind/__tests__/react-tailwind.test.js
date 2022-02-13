@@ -2,6 +2,6 @@
 
 const reactTailwind = require('..');
 
-describe('react-tailwind', () => {
+describe('react-ts-tailwind', () => {
     it('needs tests');
 });
