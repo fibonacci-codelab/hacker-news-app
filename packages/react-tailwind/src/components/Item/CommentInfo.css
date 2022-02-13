@@ -1,0 +1,12 @@
+pre {
+  margin: 0px 0px 8px;
+  overflow: auto;
+  padding: 0.65em 0px;
+  background-color: rgb(246, 246, 239);
+  border-radius: 2px;
+}
+
+p a {
+  color: rgb(0, 122, 255);
+  text-decoration: underline;
+}
